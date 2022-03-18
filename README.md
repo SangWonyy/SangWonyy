@@ -5,7 +5,7 @@
 <div align="left"><b>Hello I'm Sanwon you 👋. I'm front-end Developer.</b></div>
 
 <p></p>
-<div align="left">✉️ Contact Email havedreamm@naver.com</div>
+<div align="left">✉️ : Contact Email havedreamm@naver.com</div>
 <div align="left">📄 Tech Blog : https://sangwonny.tistory.com/</div>
 <div align="left">🧸 Toy Project : https://www.ururl.me/</div>
 
