@@ -2,7 +2,7 @@
 
 
 <div align="center"><h2>✨ About ME ✨</h2></div>
-<div align="left"><b>Hello I'm Sanwon you 👋</b></div>
+<div align="left"><b>Hello I'm Sanwon you 👋. I'm front-end Developer.</b></div>
 
 <p></p>
 <div align="left">✉️ Contact Email havedreamm@naver.com</div>
