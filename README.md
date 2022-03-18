@@ -1,8 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=0:767676,100:333333&height=200&section=header&text=SangWonyy%20Hub&fontSize=70&fontColor=E7E7E7&desc=Record all my experiences&descAlignY=75&descAlign=67" />
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangWonyy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center"><h2>✨ About ME ✨</h2></div>
-<div align="left"><b>Hello I'm Sanwon you 👋. I'm front-end Developer.</b></div>
+<div align="left">
+    <b>Hello I'm Sanwon you 👋. I'm front-end Developer.</b>
+</div>
 
 <p></p>
 <div align="left">✉️ : Contact Email havedreamm@naver.com</div>
