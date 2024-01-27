@@ -5,14 +5,12 @@
 
 <div align="center"><h2>✨ About ME ✨</h2></div>
 <div align="left">
-    <b>Hello I'm Sanwon you 👋. I'm front-end Developer.</b>
+    <b>Hello I'm Sanwon you 👋. I'm back-end Developer.</b>
 </div>
 
 <p></p>
 <div align="left">✉️ Contact Email : havedreamm@naver.com</div>
 <div align="left">📄 Tech Blog : https://sangwonny.tistory.com/</div>
-<div align="left">🧸 Toy Project : https://www.ururl.me/</div>
-
 <p></p>
 <br/>
 
