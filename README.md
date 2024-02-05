@@ -10,7 +10,6 @@
 
 <p></p>
 <div align="left">✉️ Contact Email : havedreamm@naver.com</div>
-<div align="left">📄 Tech Blog : https://sangwonny.tistory.com/</div>
 <p></p>
 <br/>
 
