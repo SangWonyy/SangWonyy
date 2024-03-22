@@ -6,6 +6,7 @@
 
 
 <p></p>
+<div align="left">BLOG : https://sangwonny.tistory.com/</div>
 <div align="left">✉️ Contact Email : havedreamm@naver.com</div>
 <p></p>
 <br/>
